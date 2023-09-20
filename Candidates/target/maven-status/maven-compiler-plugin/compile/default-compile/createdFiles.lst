@@ -1,0 +1,7 @@
+Model\Fresher.class
+Controller\Management.class
+Model\Experience.class
+Model\Intern.class
+Controller\Validation.class
+Model\Candidate.class
+View\Main.class
